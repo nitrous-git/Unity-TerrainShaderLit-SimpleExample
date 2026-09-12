@@ -5,3 +5,5 @@ The project is intentionally kept simple and is meant as a learning/reference ex
 It demonstrates a basic procedural terrain material using height and slope masks, multiple terrain textures, normal maps, triplanar projection for steep surfaces, and support for manually painted TerrainLayers.
 
 I created this repository because there are currently relatively few small, accessible examples showing how to work with the newer Terrain Shader Lit workflow compared with the more complete terrain systems available on the Unity Asset Store.
+
+<img width="1611" height="900" alt="Capture" src="https://github.com/user-attachments/assets/4809dfc2-4780-4e82-ac1b-837e90a506fc" />
